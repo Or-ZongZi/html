@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<!--标题标签h1~h6
+特点：自动加粗，依次减小。h1最大。
+ 属性：align水平对齐方式
+属性值 left左对齐（默认） center居中 right右对齐-->
+
+	<h1 align="center">瓜子二手车最新资讯</h1>
+	<!-- 常用文本类型
+	1，<b></b> 加粗
+	2，<i></i> 倾斜
+	3，<u></u> 下划线-->
+	<h1 align="center"><b>哈哈哈哈</b><br></h1>
+	<h1 align="center"><i>哈哈哈哈</i><br></h1>
+	<h1 align="center"><u>哈哈哈哈</u></h1>
+    
+</body>
+
+</html>
