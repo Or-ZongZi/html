@@ -1,0 +1,12 @@
+<!-- 网页基本结构 ！+tab键 -->
+<!-- html注释快捷方式ctrl+/ -->
+<!DOCTYPE html><!-- 文档类型声明，告诉浏览器支持html版本，必须在顶行书写 -->
+<html lang="en"><!-- html结构（整个网页） -->
+<head>
+	<meta charset="UTF-8"><!-- 旷考 -->
+	<title>淘宝商城</title>
+</head>你好
+<body>
+	
+</body>
+</html>
